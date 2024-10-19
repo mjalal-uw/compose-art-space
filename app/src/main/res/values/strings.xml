@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">ArtSpace</string>
+    <string name="content_desc_scene_1">Scene 1</string>
+    <string name="content_desc_scene_2">Scene 2</string>
+    <string name="content_desc_scene_3">Scene 3</string>
+    <string name="content_desc_scene_4">Scene 4</string>
+    <string name="artwork_title_1">Artwork Title 1</string>
+    <string name="artwork_title_2">Artwork Title 2</string>
+    <string name="artwork_title_3">Artwork Title 3</string>
+    <string name="artwork_title_4">Artwork Title 4</string>
+    <string name="artwork_artist_1">Artwork Artist 1</string>
+    <string name="artwork_artist_2">Artwork Artist 2</string>
+    <string name="artwork_artist_3">Artwork Artist 3</string>
+    <string name="artwork_artist_4">Artwork Artist 4</string>
+    <string name="artwork_year_1">(2021)</string>
+    <string name="artwork_year_2">(2022)</string>
+    <string name="artwork_year_3">(2023)</string>
+    <string name="artwork_year_4">(2024)</string>
+    <string name="previous">Previous</string>
+    <string name="next">Next</string>
+</resources>
